@@ -1,3 +1,6 @@
+let containerPrincipale = document.querySelector(".mio-container");
+
+
 
 for(let i=1;i<101;i++){
 
@@ -11,6 +14,7 @@ for(let i=1;i<101;i++){
         console.log("Buzz");
     else
         console.log(i); //altrimente stampa il numero
+
     
 
 }
